@@ -1,0 +1,19 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohithChitrada/wd_hello_node.git"
+  },
+  "author": "Rohith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohithChitrada/wd_hello_node/issues"
+  },
+  "homepage": "https://github.com/RohithChitrada/wd_hello_node#readme"
+}
